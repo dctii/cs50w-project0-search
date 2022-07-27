@@ -1,8 +1,4 @@
-# cs50w-assignments
-Assignments for CS50W 2020.
+# cs50w-project0-search
+Project 0: Search
 
-1. Project 0: Search
-2. Project 1: Wiki
-3. Project 2: Commerce
-4. Project 3: Mail
-5. Project 4: Network
+Demonstration Video: [https://youtu.be/B62h4-o97oM][https://youtu.be/B62h4-o97oM]
